@@ -51,4 +51,4 @@ If you prefer using the Command Prompt manually:
 - **Blog**: Creator resources and growth tips.
 - **Contact**: Glassmorphism contact form.
 
-**Created for FYP by codecyberus**
+ 
